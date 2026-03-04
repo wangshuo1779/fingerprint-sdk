@@ -1,4 +1,0 @@
-/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /Users/apple/Documents/DeviceFingerprint/fingerprint-sdk/.cxx/Debug/186n485c/x86_64 \
-  fingerprint-native

@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/apple/Documents/DeviceFingerprint/fingerprint-sdk/.cxx/Debug/186n485c/x86_64'
-ninja: no work to do.
